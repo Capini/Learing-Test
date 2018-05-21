@@ -1,2 +1,2 @@
-# Learing-Test
+# Learning-Test
 github tuto
